@@ -1,4 +1,4 @@
-Default: CBS and then (after 6.6) EEVDF
+Default: CFS and then (after 6.6) EEVDF
 https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html
 https://www.kernel.org/doc/html/latest/scheduler/sched-eevdf.html
 
